@@ -19,4 +19,4 @@
 | 16h30 | *FIN* | - |
 
 *L'horaire est indicatif.   
-Nous allons essayer de terminer un peu aux alentours de 16h30 pour que vous puissiez tranquillement aller prendre votre train.*
+Nous allons essayer de terminer aux alentours de 16h30 pour pouvoir aller tranquillement prendre notre train/bus/etc. de retour.*
