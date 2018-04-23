@@ -27,8 +27,9 @@ Cette œuvre est mise à disposition selon les termes de la [Licence Creative Co
 Si vous souhaitez adapter ce document, les fichiers sources sont disponibles sur [Github](https://github.com/grolimur/bis-formation).
 
 
-## Version `0.3.1`
+## Version `0.3.2`
 La dernière version de ce document est disponible sur [GitBook](https://legacy.gitbook.com/book/grolimur/former-pour-rendre-nos-usagers-autonomes/details).   
+Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 
 
 ## Informations complémentaires
